@@ -8,10 +8,6 @@
     "server": "webpack-dev-server --inline --progress --port 3000 --content-base src",
     "start": "npm run server"
   },
-  "contributors": [
-    "Rob Wormald <robwormald@gmail.com>",
-    "PatrickJS <github@gdi2290.com>"
-  ],
   "license": "MIT",
   "dependencies": {
     "@angular/common": "~4.0.1",
