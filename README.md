@@ -1,6 +1,6 @@
-## angular2-seed
+## angular4-seed
 
-A simple starter project demonstrating the basic concepts of Angular 2.
+A simple starter project demonstrating the basic concepts of Angular 4.
 
 
 ### Usage
